@@ -69,7 +69,6 @@ Testing will focus on user-centric workflows and business-critical scenarios.
 ## 7. Exit Criteria
 
 - All planned test cases are executed
-- No Critical or High severity defects are open
 - All defects are documented and tracked
 - Test Summary Report is completed
 
@@ -96,6 +95,7 @@ Testing will focus on user-centric workflows and business-critical scenarios.
 ## 10. Deliverables
 
 - Test Plan
+- User Stories
 - Test Scenarios
 - Test Cases
 - Bug Reports
@@ -107,6 +107,5 @@ Testing will focus on user-centric workflows and business-critical scenarios.
 ## 11. Tools
 
 - Jira (Bug Tracking)
-- Excel / Google Sheets (Test Cases)
-- Postman (Future API reference - out of scope for this project)
+- Google Sheets (Test Cases)
 - GitHub (Documentation Storage)
